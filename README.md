@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hector Jasso
-- 👀 I’m interested in frontend development but no rush because I'm currently working as Fullstack developer at [Helmsbriscoe](https://www.helmsbriscoe.com/)
+- 👀 I’m interested in frontend development but no rush because I'm currently working as Fullstack developer at Helmsbriscoe
 - 🌱 I'm currently learning React but I do master Angular which I think is quite better.
 - 💞️ I’m looking to collaborate on projects related to Health, Industry, Point of sale and/or any field which can bring up a challenge. 5 years having everything under control has been nice but I believe I can do more. 
 - 📫 You can reach me at my email: jasso.hektor@gmail.com
