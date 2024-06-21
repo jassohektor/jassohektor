@@ -1,4 +1,4 @@
-Hello, my name is Hector Jasso and I’m a Fullstack developer!
+Hello, I’m a Fullstack developer!
 
 I’m interested in frontend development but no rush because I'm currently working as Fullstack engineer at Neitek (5 years) and I have 18 years of experience. However I’m looking to collaborate on projects related to Health, Industry, Point of Sale and/or any field that can bring up a challenge to my life. 
 
